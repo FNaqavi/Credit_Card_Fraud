@@ -29,6 +29,3 @@ This Python script demonstrates credit card fraud detection using Logistic Regre
 
 - **Evaluation**: The model's performance is evaluated using the ROC AUC score. It also plots a precision-recall curve to visualize the precision-recall trade-off.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
